@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+p {
+    color: gray;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+
+display: block;
+}
+
+.Our_services1 {
+    text-align: center;
+    margin-top: 70px;
+    
+}
+.Our_services1 p {
+    width: 60%;
+    margin: 0 auto;
+
+
+}
+.Our_services1 h2 {
+    margin-bottom: 30px;
+}
+.Our_services2 {
+    margin-top: 70px;
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+}
+.Our_services2 div {
+    width: 20%;
+}
+.svg {
+    /* width: 1%; */
+    height: 10px;
+}
+
